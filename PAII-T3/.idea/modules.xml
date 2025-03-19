@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PAII-T3.iml" filepath="$PROJECT_DIR$/.idea/modules/PAII-T3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PAII-T3.PAII-T3-build.iml" filepath="$PROJECT_DIR$/.idea/modules/PAII-T3.PAII-T3-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PAII-T3.main.iml" filepath="$PROJECT_DIR$/.idea/modules/PAII-T3.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PAII-T3.test.iml" filepath="$PROJECT_DIR$/.idea/modules/PAII-T3.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/../.idea/modules/PAII.PAII-T3.iml" filepath="$PROJECT_DIR$/../.idea/modules/PAII.PAII-T3.iml" />
       <module fileurl="file://$PROJECT_DIR$/../.idea/modules/PAII.PAII-T3.main.iml" filepath="$PROJECT_DIR$/../.idea/modules/PAII.PAII-T3.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/../.idea/modules/PAII.PAII-T3.test.iml" filepath="$PROJECT_DIR$/../.idea/modules/PAII.PAII-T3.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/paii-t3.iml" filepath="$PROJECT_DIR$/.idea/modules/paii-t3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/paii-t3.main.iml" filepath="$PROJECT_DIR$/.idea/modules/paii-t3.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/paii-t3.paii-t3-build.iml" filepath="$PROJECT_DIR$/.idea/modules/paii-t3.paii-t3-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/paii-t3.test.iml" filepath="$PROJECT_DIR$/.idea/modules/paii-t3.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/../.idea/modules/project.PAII-T3.PAII-T3-build.iml" filepath="$PROJECT_DIR$/../.idea/modules/project.PAII-T3.PAII-T3-build.iml" />
     </modules>
   </component>

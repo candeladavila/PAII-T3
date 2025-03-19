@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="root [file:/Users/candeladavilamoreno/Documents/GitHub/PAII/PAII-T3/PAII-T3/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="paii-t3 [file:/Users/candeladavilamoreno/Documents/GitHub/PAII/PAII-T3/PAII-T3/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
   <component name="DisplayModuleName">
-    <option name="name" value="PAII-T3" />
+    <option name="name" value="paii-t3" />
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_23" inherit-compiler-output="true">
     <exclude-output />
@@ -10,7 +10,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="PAII-T3.main" />
-    <orderEntry type="module" module-name="PAII-T3.test" production-on-test="" />
   </component>
 </module>
